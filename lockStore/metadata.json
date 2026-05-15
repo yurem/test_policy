@@ -1,0 +1,11 @@
+{
+    "cedar_version": "4.9.0",
+    "policy_store": {
+        "id": "0479fdc91e558d9238e454f312f15aefd6b8ec12e154",
+        "name": "lockStore",
+        "description": "Lock Policy Store",
+        "version": "0.0.0",
+        "created_date": "2026-05-15T06:52:07.588659+00:00",
+        "updated_date": "2026-05-15T06:52:07.588688+00:00"
+    }
+}
